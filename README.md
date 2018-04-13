@@ -4,6 +4,7 @@ GalaxySwap
 GalaxyCash and GalaxySwap - different coins, GalaxyCash continue works.
 
 Name: GalaxySwap
+
 Ticker: GSP
 
 Preliminary Specifications
