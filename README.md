@@ -38,4 +38,4 @@ Swap: 20:1 (20 GCH = 1 GSP)
 
 Swap instructions after release.
 
-Release date: 2018 May-June
+Release date: 2018 June-August
