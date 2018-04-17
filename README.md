@@ -3,7 +3,7 @@ GalaxySwap
 
 Website: https://swap.galaxycash.info
 
-Low emission that GalaxyCash.
+Low coin emission than GalaxyCash and only X12.
 
 Specifications
 --------------
