@@ -1,6 +1,8 @@
 GalaxySwap
 ======
 
+Website: https://swap.galaxycash.info
+
 Specifications
 --------------
 Type: Hybrid with Masternodes
