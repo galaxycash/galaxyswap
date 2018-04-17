@@ -3,6 +3,8 @@ GalaxySwap
 
 Website: https://swap.galaxycash.info
 
+Low emission that GalaxyCash.
+
 Specifications
 --------------
 Type: Hybrid with Masternodes
@@ -18,6 +20,8 @@ Block time: 2 minutes
 Difficulty retarget: Every block
 
 Reward: 2 GSP
+
+Halving: 210,000 blocks
 
 Masternode price: 1500 GSP
 
