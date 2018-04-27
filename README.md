@@ -2,6 +2,9 @@ GalaxySwap
 ======
 
 ![alt text](https://galaxycash.info/img/gsp.jpg)
+<p align="center">
+  <img src="https://galaxycash.info/img/gsp.jpg" width="250" height="250"/>
+</p>
 
 Website: https://swap.galaxycash.info
 
