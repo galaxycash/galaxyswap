@@ -1,7 +1,7 @@
 GalaxySwap
 ======
 
-![alt text](http://galaxycash.info/img/gsp.jpg)
+![alt text](https://galaxycash.info/img/gsp.jpg)
 
 Website: https://swap.galaxycash.info
 
