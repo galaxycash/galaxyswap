@@ -1,6 +1,8 @@
 GalaxySwap
 ======
 
+![alt text](http://galaxycash.info/img/gsp.jpg)
+
 Website: https://swap.galaxycash.info
 
 Low coin emission than GalaxyCash and only X12.
